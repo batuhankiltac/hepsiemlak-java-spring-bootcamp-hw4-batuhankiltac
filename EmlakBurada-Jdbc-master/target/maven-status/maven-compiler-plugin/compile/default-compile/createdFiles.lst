@@ -1,0 +1,8 @@
+com/emlakburada/entity/Advert.class
+Main.class
+com/emlakburada/repository/AdvertRepoImpl.class
+com/emlakburada/repository/UserRepoImpl.class
+com/emlakburada/repository/AdvertRepository.class
+com/emlakburada/utility/DatabaseHelper.class
+com/emlakburada/entity/User.class
+com/emlakburada/repository/UserRepository.class

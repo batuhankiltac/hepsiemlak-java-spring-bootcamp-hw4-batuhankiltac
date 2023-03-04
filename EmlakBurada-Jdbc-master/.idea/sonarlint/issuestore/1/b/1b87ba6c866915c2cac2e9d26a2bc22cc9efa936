@@ -1,0 +1,21 @@
+
+e
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆ×¢
+j
+java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Àí±ûıÿÿÿÿ
+j
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉÏÁÿÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚Ü†”ÿÿÿÿÿ
+e
+java:S2095j"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…Ğåä
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ñßÖÙ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ÀÅ¥İ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.( ®¦¼úÿÿÿÿ
+W
+java:S1854["<Remove this useless assignment to local variable "advertId".(“»Ïışÿÿÿÿ
+H
+java:S1481["-Remove this unused "advertId" local variable.(“»Ïışÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(˜±Âşÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(…õ˜ïÿÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(Ñ»¡ 
